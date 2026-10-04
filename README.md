@@ -17,6 +17,6 @@ I build machine learning and AI systems that run in production, from data pipeli
 
 #### Tools I work with
 
-Python, SQL, PyTorch, scikit-learn, LightGBM, MLflow, FastAPI, Docker, PostgreSQL, pgvector, GitHub Actions, LLM APIs
+Python | SQL | PyTorch | scikit-learn | LightGBM | MLflow | FastAPI | Docker | PostgreSQL | pgvector | GitHub Actions | LLM APIs
 
 Find me on [LinkedIn](https://www.linkedin.com/in/jibran-khan-48601185/), [Hugging Face](https://huggingface.co/khajlk) and [ORCID](https://orcid.org/0000-0003-2080-2871), or email jk.envs@gmail.com.
